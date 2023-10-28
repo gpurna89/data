@@ -1,0 +1,553 @@
+[1698479220.472][INFO]: Starting ChromeDriver 118.0.5993.70 (e52f33f30b91b4ddfad649acddc39ab570473b86-refs/branch-heads/5993@{#1216}) on port 53808
+[1698479220.472][INFO]: Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+[1698479220.509][INFO]: [bdb2301adf4165758381209d5c2b9de8] COMMAND InitSession {
+   "capabilities": {
+      "firstMatch": [ {
+         "browserName": "chrome",
+         "goog:chromeOptions": {
+            "args": [ "--remote-allow-origins=*" ],
+            "extensions": [  ]
+         }
+      } ]
+   },
+   "desiredCapabilities": {
+      "browserName": "chrome",
+      "goog:chromeOptions": {
+         "args": [ "--remote-allow-origins=*" ],
+         "extensions": [  ]
+      }
+   }
+}
+[1698479220.510][INFO]: Populating Preferences file: {
+   "alternate_error_pages": {
+      "enabled": false
+   },
+   "autofill": {
+      "enabled": false
+   },
+   "browser": {
+      "check_default_browser": false
+   },
+   "distribution": {
+      "import_bookmarks": false,
+      "import_history": false,
+      "import_search_engine": false,
+      "make_chrome_default_for_user": false,
+      "skip_first_run_ui": true
+   },
+   "dns_prefetching": {
+      "enabled": false
+   },
+   "profile": {
+      "content_settings": {
+         "pattern_pairs": {
+            "https://*,*": {
+               "media-stream": {
+                  "audio": "Default",
+                  "video": "Default"
+               }
+            }
+         }
+      },
+      "default_content_setting_values": {
+         "geolocation": 1
+      },
+      "default_content_settings": {
+         "geolocation": 1,
+         "mouselock": 1,
+         "notifications": 1,
+         "popups": 1,
+         "ppapi-broker": 1
+      },
+      "password_manager_enabled": false
+   },
+   "safebrowsing": {
+      "enabled": false
+   },
+   "search": {
+      "suggest_enabled": false
+   },
+   "translate": {
+      "enabled": false
+   }
+}
+[1698479220.510][INFO]: Populating Local State file: {
+   "background_mode": {
+      "enabled": false
+   },
+   "ssl": {
+      "rev_checking": {
+         "enabled": false
+      }
+   }
+}
+[1698479220.510][INFO]: Launching chrome: /opt/google/chrome/chrome --allow-pre-commit-input --disable-background-networking --disable-client-side-phishing-detection --disable-default-apps --disable-hang-monitor --disable-popup-blocking --disable-prompt-on-repost --disable-sync --enable-automation --enable-logging --log-level=0 --no-first-run --no-service-autorun --password-store=basic --remote-allow-origins=* --remote-debugging-port=0 --test-type=webdriver --use-mock-keychain --user-data-dir=/tmp/.org.chromium.Chromium.Ac6tWi data:,
+[1698479221.438][INFO]: resolved localhost to ["127.0.0.1"]
+[1698479221.489][INFO]: [bdb2301adf4165758381209d5c2b9de8] RESPONSE InitSession {
+   "capabilities": {
+      "acceptInsecureCerts": false,
+      "browserName": "chrome",
+      "browserVersion": "118.0.5993.88",
+      "chrome": {
+         "chromedriverVersion": "118.0.5993.70 (e52f33f30b91b4ddfad649acddc39ab570473b86-refs/branch-heads/5993@{#1216})",
+         "userDataDir": "/tmp/.org.chromium.Chromium.Ac6tWi"
+      },
+      "fedcm:accounts": true,
+      "goog:chromeOptions": {
+         "debuggerAddress": "localhost:42875"
+      },
+      "networkConnectionEnabled": false,
+      "pageLoadStrategy": "normal",
+      "platformName": "linux",
+      "proxy": {
+      },
+      "setWindowRect": true,
+      "strictFileInteractability": false,
+      "timeouts": {
+         "implicit": 0,
+         "pageLoad": 300000,
+         "script": 30000
+      },
+      "unhandledPromptBehavior": "dismiss and notify",
+      "webauthn:extension:credBlob": true,
+      "webauthn:extension:largeBlob": true,
+      "webauthn:extension:minPinLength": true,
+      "webauthn:extension:prf": true,
+      "webauthn:virtualAuthenticators": true
+   },
+   "sessionId": "bdb2301adf4165758381209d5c2b9de8"
+}
+[1698479221.532][INFO]: [bdb2301adf4165758381209d5c2b9de8] COMMAND MaximizeWindow {
+}
+[1698479221.532][INFO]: Waiting for pending navigations...
+[1698479221.534][INFO]: Done waiting for pending navigations. Status: ok
+[1698479221.637][INFO]: Waiting for pending navigations...
+[1698479221.639][INFO]: Done waiting for pending navigations. Status: ok
+[1698479221.639][INFO]: [bdb2301adf4165758381209d5c2b9de8] RESPONSE MaximizeWindow {
+   "height": 741,
+   "width": 1296,
+   "x": 70,
+   "y": 27
+}
+[1698479221.652][INFO]: [bdb2301adf4165758381209d5c2b9de8] COMMAND Navigate {
+   "url": "https://www.ballantynes.co.nz"
+}
+[1698479221.652][INFO]: Waiting for pending navigations...
+[1698479221.654][INFO]: Done waiting for pending navigations. Status: ok
+[1698479222.374][INFO]: Waiting for pending navigations...
+[1698479224.818][INFO]: Done waiting for pending navigations. Status: ok
+[1698479224.818][INFO]: [bdb2301adf4165758381209d5c2b9de8] RESPONSE Navigate
+[1698479224.822][INFO]: [bdb2301adf4165758381209d5c2b9de8] COMMAND GetTitle {
+}
+[1698479224.822][INFO]: Waiting for pending navigations...
+[1698479224.826][INFO]: Done waiting for pending navigations. Status: ok
+[1698479224.834][INFO]: Waiting for pending navigations...
+[1698479224.838][INFO]: Done waiting for pending navigations. Status: ok
+[1698479224.838][INFO]: [bdb2301adf4165758381209d5c2b9de8] RESPONSE GetTitle "Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store"
+[1698479224.843][INFO]: [bdb2301adf4165758381209d5c2b9de8] COMMAND GetTitle {
+}
+[1698479224.843][INFO]: Waiting for pending navigations...
+[1698479224.844][INFO]: Done waiting for pending navigations. Status: ok
+[1698479224.847][INFO]: Waiting for pending navigations...
+[1698479224.848][INFO]: Done waiting for pending navigations. Status: ok
+[1698479224.848][INFO]: [bdb2301adf4165758381209d5c2b9de8] RESPONSE GetTitle "Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store"
+[1698479224.853][INFO]: [bdb2301adf4165758381209d5c2b9de8] COMMAND FindElement {
+   "using": "xpath",
+   "value": "//a[text()='Login / Register']"
+}
+[1698479224.853][INFO]: Waiting for pending navigations...
+[1698479224.867][INFO]: Done waiting for pending navigations. Status: ok
+[1698479224.891][INFO]: Waiting for pending navigations...
+[1698479224.901][INFO]: Done waiting for pending navigations. Status: ok
+[1698479224.901][INFO]: [bdb2301adf4165758381209d5c2b9de8] RESPONSE FindElement {
+   "element-6066-11e4-a52e-4f735466cecf": "2883C203B2B8B650E40710A1857349BB_element_54"
+}
+[1698479224.907][INFO]: [bdb2301adf4165758381209d5c2b9de8] COMMAND ExecuteScript {
+   "args": [ {
+      "ELEMENT": "2883C203B2B8B650E40710A1857349BB_element_54",
+      "element-6066-11e4-a52e-4f735466cecf": "2883C203B2B8B650E40710A1857349BB_element_54"
+   } ],
+   "script": "arguments[0].click()"
+}
+[1698479224.907][INFO]: Waiting for pending navigations...
+[1698479224.917][INFO]: Done waiting for pending navigations. Status: ok
+[1698479224.987][INFO]: Waiting for pending navigations...
+[1698479225.004][INFO]: Done waiting for pending navigations. Status: ok
+[1698479225.005][INFO]: [bdb2301adf4165758381209d5c2b9de8] RESPONSE ExecuteScript null
+[1698479229.013][INFO]: [bdb2301adf4165758381209d5c2b9de8] COMMAND FindElement {
+   "using": "xpath",
+   "value": "//button[@class='close']//following-sibling::*"
+}
+[1698479229.013][INFO]: Waiting for pending navigations...
+[1698479229.014][INFO]: Done waiting for pending navigations. Status: ok
+[1698479229.045][INFO]: Waiting for pending navigations...
+[1698479229.046][INFO]: Done waiting for pending navigations. Status: ok
+[1698479229.046][INFO]: [bdb2301adf4165758381209d5c2b9de8] RESPONSE FindElement ERROR no such element: Unable to locate element: {"method":"xpath","selector":"//button[@class='close']//following-sibling::*"}
+  (Session info: chrome=118.0.5993.88)
+[1698479229.051][INFO]: [bdb2301adf4165758381209d5c2b9de8] COMMAND FindElement {
+   "using": "xpath",
+   "value": "//button[@class='close']//following-sibling::*"
+}
+[1698479229.051][INFO]: Waiting for pending navigations...
+[1698479229.052][INFO]: Done waiting for pending navigations. Status: ok
+[1698479229.066][INFO]: Waiting for pending navigations...
+[1698479229.067][INFO]: Done waiting for pending navigations. Status: ok
+[1698479229.067][INFO]: [bdb2301adf4165758381209d5c2b9de8] RESPONSE FindElement ERROR no such element: Unable to locate element: {"method":"xpath","selector":"//button[@class='close']//following-sibling::*"}
+  (Session info: chrome=118.0.5993.88)
+[1698479229.071][INFO]: [bdb2301adf4165758381209d5c2b9de8] COMMAND FindElement {
+   "using": "xpath",
+   "value": "//button[@class='close']//following-sibling::*"
+}
+[1698479229.071][INFO]: Waiting for pending navigations...
+[1698479229.071][INFO]: Done waiting for pending navigations. Status: ok
+[1698479229.086][INFO]: Waiting for pending navigations...
+[1698479229.086][INFO]: Done waiting for pending navigations. Status: ok
+[1698479229.086][INFO]: [bdb2301adf4165758381209d5c2b9de8] RESPONSE FindElement ERROR no such element: Unable to locate element: {"method":"xpath","selector":"//button[@class='close']//following-sibling::*"}
+  (Session info: chrome=118.0.5993.88)
+[1698479229.090][INFO]: [bdb2301adf4165758381209d5c2b9de8] COMMAND FindElement {
+   "using": "xpath",
+   "value": "//button[@class='close']//following-sibling::*"
+}
+[1698479229.090][INFO]: Waiting for pending navigations...
+[1698479229.091][INFO]: Done waiting for pending navigations. Status: ok
+[1698479229.105][INFO]: Waiting for pending navigations...
+[1698479229.106][INFO]: Done waiting for pending navigations. Status: ok
+[1698479229.106][INFO]: [bdb2301adf4165758381209d5c2b9de8] RESPONSE FindElement ERROR no such element: Unable to locate element: {"method":"xpath","selector":"//button[@class='close']//following-sibling::*"}
+  (Session info: chrome=118.0.5993.88)
+[1698479229.109][INFO]: [bdb2301adf4165758381209d5c2b9de8] COMMAND FindElement {
+   "using": "xpath",
+   "value": "//button[@class='close']//following-sibling::*"
+}
+[1698479229.109][INFO]: Waiting for pending navigations...
+[1698479229.110][INFO]: Done waiting for pending navigations. Status: ok
+[1698479229.125][INFO]: Waiting for pending navigations...
+[1698479229.125][INFO]: Done waiting for pending navigations. Status: ok
+[1698479229.125][INFO]: [bdb2301adf4165758381209d5c2b9de8] RESPONSE FindElement ERROR no such element: Unable to locate element: {"method":"xpath","selector":"//button[@class='close']//following-sibling::*"}
+  (Session info: chrome=118.0.5993.88)
+[1698479229.129][INFO]: [bdb2301adf4165758381209d5c2b9de8] COMMAND FindElement {
+   "using": "xpath",
+   "value": "//button[@class='close']//following-sibling::*"
+}
+[1698479229.129][INFO]: Waiting for pending navigations...
+[1698479229.130][INFO]: Done waiting for pending navigations. Status: ok
+[1698479229.148][INFO]: Waiting for pending navigations...
+[1698479229.149][INFO]: Done waiting for pending navigations. Status: ok
+[1698479229.149][INFO]: [bdb2301adf4165758381209d5c2b9de8] RESPONSE FindElement ERROR no such element: Unable to locate element: {"method":"xpath","selector":"//button[@class='close']//following-sibling::*"}
+  (Session info: chrome=118.0.5993.88)
+[1698479229.155][INFO]: [bdb2301adf4165758381209d5c2b9de8] COMMAND FindElement {
+   "using": "xpath",
+   "value": "//button[@class='close']//following-sibling::*"
+}
+[1698479229.155][INFO]: Waiting for pending navigations...
+[1698479229.157][INFO]: Done waiting for pending navigations. Status: ok
+[1698479229.175][INFO]: Waiting for pending navigations...
+[1698479229.175][INFO]: Done waiting for pending navigations. Status: ok
+[1698479229.175][INFO]: [bdb2301adf4165758381209d5c2b9de8] RESPONSE FindElement ERROR no such element: Unable to locate element: {"method":"xpath","selector":"//button[@class='close']//following-sibling::*"}
+  (Session info: chrome=118.0.5993.88)
+[1698479229.180][INFO]: [bdb2301adf4165758381209d5c2b9de8] COMMAND FindElement {
+   "using": "xpath",
+   "value": "//button[@class='close']//following-sibling::*"
+}
+[1698479229.180][INFO]: Waiting for pending navigations...
+[1698479229.181][INFO]: Done waiting for pending navigations. Status: ok
+[1698479229.200][INFO]: Waiting for pending navigations...
+[1698479229.201][INFO]: Done waiting for pending navigations. Status: ok
+[1698479229.201][INFO]: [bdb2301adf4165758381209d5c2b9de8] RESPONSE FindElement ERROR no such element: Unable to locate element: {"method":"xpath","selector":"//button[@class='close']//following-sibling::*"}
+  (Session info: chrome=118.0.5993.88)
+[1698479229.206][INFO]: [bdb2301adf4165758381209d5c2b9de8] COMMAND FindElement {
+   "using": "xpath",
+   "value": "//button[@class='close']//following-sibling::*"
+}
+[1698479229.206][INFO]: Waiting for pending navigations...
+[1698479229.207][INFO]: Done waiting for pending navigations. Status: ok
+[1698479229.223][INFO]: Waiting for pending navigations...
+[1698479229.224][INFO]: Done waiting for pending navigations. Status: ok
+[1698479229.224][INFO]: [bdb2301adf4165758381209d5c2b9de8] RESPONSE FindElement ERROR no such element: Unable to locate element: {"method":"xpath","selector":"//button[@class='close']//following-sibling::*"}
+  (Session info: chrome=118.0.5993.88)
+[1698479229.228][INFO]: [bdb2301adf4165758381209d5c2b9de8] COMMAND FindElement {
+   "using": "xpath",
+   "value": "//button[@class='close']//following-sibling::*"
+}
+[1698479229.228][INFO]: Waiting for pending navigations...
+[1698479229.231][INFO]: Done waiting for pending navigations. Status: ok
+[1698479229.249][INFO]: Waiting for pending navigations...
+[1698479229.250][INFO]: Done waiting for pending navigations. Status: ok
+[1698479229.250][INFO]: [bdb2301adf4165758381209d5c2b9de8] RESPONSE FindElement ERROR no such element: Unable to locate element: {"method":"xpath","selector":"//button[@class='close']//following-sibling::*"}
+  (Session info: chrome=118.0.5993.88)
+[1698479229.254][INFO]: [bdb2301adf4165758381209d5c2b9de8] COMMAND FindElement {
+   "using": "xpath",
+   "value": "//button[@class='close']//following-sibling::*"
+}
+[1698479229.254][INFO]: Waiting for pending navigations...
+[1698479229.256][INFO]: Done waiting for pending navigations. Status: ok
+[1698479229.273][INFO]: Waiting for pending navigations...
+[1698479229.274][INFO]: Done waiting for pending navigations. Status: ok
+[1698479229.274][INFO]: [bdb2301adf4165758381209d5c2b9de8] RESPONSE FindElement ERROR no such element: Unable to locate element: {"method":"xpath","selector":"//button[@class='close']//following-sibling::*"}
+  (Session info: chrome=118.0.5993.88)
+[1698479229.277][INFO]: [bdb2301adf4165758381209d5c2b9de8] COMMAND FindElement {
+   "using": "xpath",
+   "value": "//button[@class='close']//following-sibling::*"
+}
+[1698479229.277][INFO]: Waiting for pending navigations...
+[1698479229.278][INFO]: Done waiting for pending navigations. Status: ok
+[1698479229.294][INFO]: Waiting for pending navigations...
+[1698479229.295][INFO]: Done waiting for pending navigations. Status: ok
+[1698479229.295][INFO]: [bdb2301adf4165758381209d5c2b9de8] RESPONSE FindElement ERROR no such element: Unable to locate element: {"method":"xpath","selector":"//button[@class='close']//following-sibling::*"}
+  (Session info: chrome=118.0.5993.88)
+[1698479229.299][INFO]: [bdb2301adf4165758381209d5c2b9de8] COMMAND FindElement {
+   "using": "xpath",
+   "value": "//button[@class='close']//following-sibling::*"
+}
+[1698479229.299][INFO]: Waiting for pending navigations...
+[1698479229.301][INFO]: Done waiting for pending navigations. Status: ok
+[1698479229.316][INFO]: Waiting for pending navigations...
+[1698479229.317][INFO]: Done waiting for pending navigations. Status: ok
+[1698479229.317][INFO]: [bdb2301adf4165758381209d5c2b9de8] RESPONSE FindElement ERROR no such element: Unable to locate element: {"method":"xpath","selector":"//button[@class='close']//following-sibling::*"}
+  (Session info: chrome=118.0.5993.88)
+[1698479229.320][INFO]: [bdb2301adf4165758381209d5c2b9de8] COMMAND FindElement {
+   "using": "xpath",
+   "value": "//button[@class='close']//following-sibling::*"
+}
+[1698479229.320][INFO]: Waiting for pending navigations...
+[1698479229.322][INFO]: Done waiting for pending navigations. Status: ok
+[1698479229.342][INFO]: Waiting for pending navigations...
+[1698479229.343][INFO]: Done waiting for pending navigations. Status: ok
+[1698479229.343][INFO]: [bdb2301adf4165758381209d5c2b9de8] RESPONSE FindElement ERROR no such element: Unable to locate element: {"method":"xpath","selector":"//button[@class='close']//following-sibling::*"}
+  (Session info: chrome=118.0.5993.88)
+[1698479229.348][INFO]: [bdb2301adf4165758381209d5c2b9de8] COMMAND FindElement {
+   "using": "xpath",
+   "value": "//button[@class='close']//following-sibling::*"
+}
+[1698479229.348][INFO]: Waiting for pending navigations...
+[1698479229.350][INFO]: Done waiting for pending navigations. Status: ok
+[1698479229.381][INFO]: Waiting for pending navigations...
+[1698479229.385][INFO]: Done waiting for pending navigations. Status: ok
+[1698479229.385][INFO]: [bdb2301adf4165758381209d5c2b9de8] RESPONSE FindElement ERROR no such element: Unable to locate element: {"method":"xpath","selector":"//button[@class='close']//following-sibling::*"}
+  (Session info: chrome=118.0.5993.88)
+[1698479229.390][INFO]: [bdb2301adf4165758381209d5c2b9de8] COMMAND FindElement {
+   "using": "xpath",
+   "value": "//button[@class='close']//following-sibling::*"
+}
+[1698479229.390][INFO]: Waiting for pending navigations...
+[1698479229.393][INFO]: Done waiting for pending navigations. Status: ok
+[1698479229.423][INFO]: Waiting for pending navigations...
+[1698479229.424][INFO]: Done waiting for pending navigations. Status: ok
+[1698479229.424][INFO]: [bdb2301adf4165758381209d5c2b9de8] RESPONSE FindElement ERROR no such element: Unable to locate element: {"method":"xpath","selector":"//button[@class='close']//following-sibling::*"}
+  (Session info: chrome=118.0.5993.88)
+[1698479229.430][INFO]: [bdb2301adf4165758381209d5c2b9de8] COMMAND FindElement {
+   "using": "xpath",
+   "value": "//button[@class='close']//following-sibling::*"
+}
+[1698479229.430][INFO]: Waiting for pending navigations...
+[1698479229.436][INFO]: Done waiting for pending navigations. Status: ok
+[1698479229.460][INFO]: Waiting for pending navigations...
+[1698479229.461][INFO]: Done waiting for pending navigations. Status: ok
+[1698479229.461][INFO]: [bdb2301adf4165758381209d5c2b9de8] RESPONSE FindElement ERROR no such element: Unable to locate element: {"method":"xpath","selector":"//button[@class='close']//following-sibling::*"}
+  (Session info: chrome=118.0.5993.88)
+[1698479229.465][INFO]: [bdb2301adf4165758381209d5c2b9de8] COMMAND FindElement {
+   "using": "xpath",
+   "value": "//button[@class='close']//following-sibling::*"
+}
+[1698479229.465][INFO]: Waiting for pending navigations...
+[1698479229.468][INFO]: Done waiting for pending navigations. Status: ok
+[1698479229.492][INFO]: Waiting for pending navigations...
+[1698479229.493][INFO]: Done waiting for pending navigations. Status: ok
+[1698479229.493][INFO]: [bdb2301adf4165758381209d5c2b9de8] RESPONSE FindElement ERROR no such element: Unable to locate element: {"method":"xpath","selector":"//button[@class='close']//following-sibling::*"}
+  (Session info: chrome=118.0.5993.88)
+[1698479229.498][INFO]: [bdb2301adf4165758381209d5c2b9de8] COMMAND FindElement {
+   "using": "xpath",
+   "value": "//button[@class='close']//following-sibling::*"
+}
+[1698479229.498][INFO]: Waiting for pending navigations...
+[1698479229.500][INFO]: Done waiting for pending navigations. Status: ok
+[1698479229.523][INFO]: Waiting for pending navigations...
+[1698479229.524][INFO]: Done waiting for pending navigations. Status: ok
+[1698479229.524][INFO]: [bdb2301adf4165758381209d5c2b9de8] RESPONSE FindElement ERROR no such element: Unable to locate element: {"method":"xpath","selector":"//button[@class='close']//following-sibling::*"}
+  (Session info: chrome=118.0.5993.88)
+[1698479229.534][INFO]: [bdb2301adf4165758381209d5c2b9de8] COMMAND FindElement {
+   "using": "xpath",
+   "value": "//button[@class='close']//following-sibling::*"
+}
+[1698479229.534][INFO]: Waiting for pending navigations...
+[1698479229.536][INFO]: Done waiting for pending navigations. Status: ok
+[1698479229.557][INFO]: Waiting for pending navigations...
+[1698479229.558][INFO]: Done waiting for pending navigations. Status: ok
+[1698479229.558][INFO]: [bdb2301adf4165758381209d5c2b9de8] RESPONSE FindElement ERROR no such element: Unable to locate element: {"method":"xpath","selector":"//button[@class='close']//following-sibling::*"}
+  (Session info: chrome=118.0.5993.88)
+[1698479229.565][INFO]: [bdb2301adf4165758381209d5c2b9de8] COMMAND FindElement {
+   "using": "xpath",
+   "value": "//button[@class='close']//following-sibling::*"
+}
+[1698479229.565][INFO]: Waiting for pending navigations...
+[1698479229.566][INFO]: Done waiting for pending navigations. Status: ok
+[1698479229.581][INFO]: Waiting for pending navigations...
+[1698479229.582][INFO]: Done waiting for pending navigations. Status: ok
+[1698479229.582][INFO]: [bdb2301adf4165758381209d5c2b9de8] RESPONSE FindElement ERROR no such element: Unable to locate element: {"method":"xpath","selector":"//button[@class='close']//following-sibling::*"}
+  (Session info: chrome=118.0.5993.88)
+[1698479229.586][INFO]: [bdb2301adf4165758381209d5c2b9de8] COMMAND FindElement {
+   "using": "xpath",
+   "value": "//button[@class='close']//following-sibling::*"
+}
+[1698479229.586][INFO]: Waiting for pending navigations...
+[1698479229.587][INFO]: Done waiting for pending navigations. Status: ok
+[1698479229.602][INFO]: Waiting for pending navigations...
+[1698479229.603][INFO]: Done waiting for pending navigations. Status: ok
+[1698479229.603][INFO]: [bdb2301adf4165758381209d5c2b9de8] RESPONSE FindElement ERROR no such element: Unable to locate element: {"method":"xpath","selector":"//button[@class='close']//following-sibling::*"}
+  (Session info: chrome=118.0.5993.88)
+[1698479229.607][INFO]: [bdb2301adf4165758381209d5c2b9de8] COMMAND FindElement {
+   "using": "xpath",
+   "value": "//button[@class='close']//following-sibling::*"
+}
+[1698479229.607][INFO]: Waiting for pending navigations...
+[1698479229.608][INFO]: Done waiting for pending navigations. Status: ok
+[1698479229.625][INFO]: Waiting for pending navigations...
+[1698479229.625][INFO]: Done waiting for pending navigations. Status: ok
+[1698479229.625][INFO]: [bdb2301adf4165758381209d5c2b9de8] RESPONSE FindElement ERROR no such element: Unable to locate element: {"method":"xpath","selector":"//button[@class='close']//following-sibling::*"}
+  (Session info: chrome=118.0.5993.88)
+[1698479229.630][INFO]: [bdb2301adf4165758381209d5c2b9de8] COMMAND FindElement {
+   "using": "xpath",
+   "value": "//button[@class='close']//following-sibling::*"
+}
+[1698479229.630][INFO]: Waiting for pending navigations...
+[1698479229.631][INFO]: Done waiting for pending navigations. Status: ok
+[1698479229.648][INFO]: Waiting for pending navigations...
+[1698479229.649][INFO]: Done waiting for pending navigations. Status: ok
+[1698479229.649][INFO]: [bdb2301adf4165758381209d5c2b9de8] RESPONSE FindElement ERROR no such element: Unable to locate element: {"method":"xpath","selector":"//button[@class='close']//following-sibling::*"}
+  (Session info: chrome=118.0.5993.88)
+[1698479229.654][INFO]: [bdb2301adf4165758381209d5c2b9de8] COMMAND FindElement {
+   "using": "xpath",
+   "value": "//button[@class='close']//following-sibling::*"
+}
+[1698479229.654][INFO]: Waiting for pending navigations...
+[1698479229.655][INFO]: Done waiting for pending navigations. Status: ok
+[1698479229.669][INFO]: Waiting for pending navigations...
+[1698479229.670][INFO]: Done waiting for pending navigations. Status: ok
+[1698479229.670][INFO]: [bdb2301adf4165758381209d5c2b9de8] RESPONSE FindElement ERROR no such element: Unable to locate element: {"method":"xpath","selector":"//button[@class='close']//following-sibling::*"}
+  (Session info: chrome=118.0.5993.88)
+[1698479229.675][INFO]: [bdb2301adf4165758381209d5c2b9de8] COMMAND FindElement {
+   "using": "xpath",
+   "value": "//button[@class='close']//following-sibling::*"
+}
+[1698479229.675][INFO]: Waiting for pending navigations...
+[1698479229.676][INFO]: Done waiting for pending navigations. Status: ok
+[1698479229.695][INFO]: Waiting for pending navigations...
+[1698479229.696][INFO]: Done waiting for pending navigations. Status: ok
+[1698479229.696][INFO]: [bdb2301adf4165758381209d5c2b9de8] RESPONSE FindElement ERROR no such element: Unable to locate element: {"method":"xpath","selector":"//button[@class='close']//following-sibling::*"}
+  (Session info: chrome=118.0.5993.88)
+[1698479229.699][INFO]: [bdb2301adf4165758381209d5c2b9de8] COMMAND FindElement {
+   "using": "xpath",
+   "value": "//button[@class='close']//following-sibling::*"
+}
+[1698479229.699][INFO]: Waiting for pending navigations...
+[1698479229.700][INFO]: Done waiting for pending navigations. Status: ok
+[1698479229.716][INFO]: Waiting for pending navigations...
+[1698479229.717][INFO]: Done waiting for pending navigations. Status: ok
+[1698479229.717][INFO]: [bdb2301adf4165758381209d5c2b9de8] RESPONSE FindElement ERROR no such element: Unable to locate element: {"method":"xpath","selector":"//button[@class='close']//following-sibling::*"}
+  (Session info: chrome=118.0.5993.88)
+[1698479229.720][INFO]: [bdb2301adf4165758381209d5c2b9de8] COMMAND FindElement {
+   "using": "xpath",
+   "value": "//button[@class='close']//following-sibling::*"
+}
+[1698479229.720][INFO]: Waiting for pending navigations...
+[1698479229.721][INFO]: Done waiting for pending navigations. Status: ok
+[1698479229.734][INFO]: Waiting for pending navigations...
+[1698479229.734][INFO]: Done waiting for pending navigations. Status: ok
+[1698479229.734][INFO]: [bdb2301adf4165758381209d5c2b9de8] RESPONSE FindElement ERROR no such element: Unable to locate element: {"method":"xpath","selector":"//button[@class='close']//following-sibling::*"}
+  (Session info: chrome=118.0.5993.88)
+[1698479229.738][INFO]: [bdb2301adf4165758381209d5c2b9de8] COMMAND FindElement {
+   "using": "xpath",
+   "value": "//button[@class='close']//following-sibling::*"
+}
+[1698479229.738][INFO]: Waiting for pending navigations...
+[1698479229.739][INFO]: Done waiting for pending navigations. Status: ok
+[1698479229.750][INFO]: Waiting for pending navigations...
+[1698479229.751][INFO]: Done waiting for pending navigations. Status: ok
+[1698479229.751][INFO]: [bdb2301adf4165758381209d5c2b9de8] RESPONSE FindElement ERROR no such element: Unable to locate element: {"method":"xpath","selector":"//button[@class='close']//following-sibling::*"}
+  (Session info: chrome=118.0.5993.88)
+[1698479229.754][INFO]: [bdb2301adf4165758381209d5c2b9de8] COMMAND FindElement {
+   "using": "xpath",
+   "value": "//button[@class='close']//following-sibling::*"
+}
+[1698479229.755][INFO]: Waiting for pending navigations...
+[1698479229.755][INFO]: Done waiting for pending navigations. Status: ok
+[1698479229.776][INFO]: Waiting for pending navigations...
+[1698479229.779][INFO]: Done waiting for pending navigations. Status: ok
+[1698479229.779][INFO]: [bdb2301adf4165758381209d5c2b9de8] RESPONSE FindElement ERROR no such element: Unable to locate element: {"method":"xpath","selector":"//button[@class='close']//following-sibling::*"}
+  (Session info: chrome=118.0.5993.88)
+[1698479229.783][INFO]: [bdb2301adf4165758381209d5c2b9de8] COMMAND FindElement {
+   "using": "xpath",
+   "value": "//button[@class='close']//following-sibling::*"
+}
+[1698479229.783][INFO]: Waiting for pending navigations...
+[1698479229.784][INFO]: Done waiting for pending navigations. Status: ok
+[1698479229.798][INFO]: Waiting for pending navigations...
+[1698479229.799][INFO]: Done waiting for pending navigations. Status: ok
+[1698479229.799][INFO]: [bdb2301adf4165758381209d5c2b9de8] RESPONSE FindElement ERROR no such element: Unable to locate element: {"method":"xpath","selector":"//button[@class='close']//following-sibling::*"}
+  (Session info: chrome=118.0.5993.88)
+[1698479229.803][INFO]: [bdb2301adf4165758381209d5c2b9de8] COMMAND FindElement {
+   "using": "xpath",
+   "value": "//button[@class='close']//following-sibling::*"
+}
+[1698479229.803][INFO]: Waiting for pending navigations...
+[1698479229.804][INFO]: Done waiting for pending navigations. Status: ok
+[1698479229.819][INFO]: Waiting for pending navigations...
+[1698479229.819][INFO]: Done waiting for pending navigations. Status: ok
+[1698479229.819][INFO]: [bdb2301adf4165758381209d5c2b9de8] RESPONSE FindElement ERROR no such element: Unable to locate element: {"method":"xpath","selector":"//button[@class='close']//following-sibling::*"}
+  (Session info: chrome=118.0.5993.88)
+[1698479229.823][INFO]: [bdb2301adf4165758381209d5c2b9de8] COMMAND FindElement {
+   "using": "xpath",
+   "value": "//button[@class='close']//following-sibling::*"
+}
+[1698479229.823][INFO]: Waiting for pending navigations...
+[1698479229.824][INFO]: Done waiting for pending navigations. Status: ok
+[1698479229.839][INFO]: Waiting for pending navigations...
+[1698479229.840][INFO]: Done waiting for pending navigations. Status: ok
+[1698479229.840][INFO]: [bdb2301adf4165758381209d5c2b9de8] RESPONSE FindElement ERROR no such element: Unable to locate element: {"method":"xpath","selector":"//button[@class='close']//following-sibling::*"}
+  (Session info: chrome=118.0.5993.88)
+[1698479229.844][INFO]: [bdb2301adf4165758381209d5c2b9de8] COMMAND FindElement {
+   "using": "xpath",
+   "value": "//button[@class='close']//following-sibling::*"
+}
+[1698479229.844][INFO]: Waiting for pending navigations...
+[1698479229.846][INFO]: Done waiting for pending navigations. Status: ok
+[1698479229.861][INFO]: Waiting for pending navigations...
+[1698479229.862][INFO]: Done waiting for pending navigations. Status: ok
+[1698479229.862][INFO]: [bdb2301adf4165758381209d5c2b9de8] RESPONSE FindElement ERROR no such element: Unable to locate element: {"method":"xpath","selector":"//button[@class='close']//following-sibling::*"}
+  (Session info: chrome=118.0.5993.88)
+[1698479229.867][INFO]: [bdb2301adf4165758381209d5c2b9de8] COMMAND FindElement {
+   "using": "xpath",
+   "value": "//button[@class='close']//following-sibling::*"
+}
+[1698479229.867][INFO]: Waiting for pending navigations...
+[1698479229.868][INFO]: Done waiting for pending navigations. Status: ok
+[1698479229.882][INFO]: Waiting for pending navigations...
+[1698479229.882][INFO]: Done waiting for pending navigations. Status: ok
+[1698479229.882][INFO]: [bdb2301adf4165758381209d5c2b9de8] RESPONSE FindElement ERROR no such element: Unable to locate element: {"method":"xpath","selector":"//button[@class='close']//following-sibling::*"}
+  (Session info: chrome=118.0.5993.88)
+[1698479229.886][INFO]: [bdb2301adf4165758381209d5c2b9de8] COMMAND FindElement {
+   "using": "xpath",
+   "value": "//button[@class='close']//following-sibling::*"
+}
+[1698479229.886][INFO]: Waiting for pending navigations...
+[1698479229.887][INFO]: Done waiting for pending navigations. Status: ok
+[1698479229.902][INFO]: Waiting for pending navigations...
+[1698479229.903][INFO]: Done waiting for pending navigations. Status: ok
+[1698479229.903][INFO]: [bdb2301adf4165758381209d5c2b9de8] RESPONSE FindElement ERROR no such element: Unable to locate element: {"method":"xpath","selector":"//button[@class='close']//following-sibling::*"}
+  (Session info: chrome=118.0.5993.88)
+[1698479229.907][INFO]: [bdb2301adf4165758381209d5c2b9de8] COMMAND FindElement {
+   "using": "xpath",
+   "value": "//button[@class='close']//following-sibling::*"
+}
+[1698479229.907][INFO]: Waiting for pending navigations...
+[1698479229.908][INFO]: Done waiting for pending navigations. Status: ok
+[1698479229.923][INFO]: Waiting for pending navigations...
+[1698479229.923][INFO]: Done waiting for pending navigations. Status: ok
+[1698479229.923][INFO]: [bdb2301adf4165758381209d5c2b9de8] RESPONSE FindElement ERROR no such element: Unable to locate element: {"method":"xpath","selector":"//button[@class='close']//following-sibling::*"}
+  (Session info: chrome=118.0.5993.88)
+[1698479229.926][INFO]: [bdb2301adf4165758381209d5c2b9de8] COMMAND FindElement {
+   "using": "xpath",
+   "value": "//button[@class='close']//following-sibling::*"
+}
+[1698479229.927][INFO]: Waiting for pending navigations...
+[1698479229.927][INFO]: Done waiting for pending navigations. Status: ok
+[1698479229.992][WARNING]: Processing messages while being disconnected

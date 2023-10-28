@@ -1,0 +1,1143 @@
+10:36:33.356 [main] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+10:36:40.510 [main] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+10:36:40.551 [main] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+10:36:40.551 [main] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+10:36:40.552 [main] INFO  com.tcs.stepdefinition.Hooks - 1155337528
+10:36:41.583 [main] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+10:36:45.857 [main] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+10:36:45.936 [main] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+10:36:46.444 [main] INFO  com.tcs.stepdefinition.Hooks - user click login button
+10:36:46.617 [main] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+10:36:55.580 [main] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+10:36:56.690 [main] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+10:37:00.851 [main] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+10:37:00.884 [main] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+10:37:00.885 [main] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+10:37:00.885 [main] INFO  com.tcs.stepdefinition.Hooks - 1155337528
+10:37:13.233 [main] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+10:53:08.195 [main] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+10:53:13.850 [main] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+10:53:13.881 [main] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+10:53:13.881 [main] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+10:53:13.882 [main] INFO  com.tcs.stepdefinition.Hooks - 1134505351
+10:53:14.878 [main] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+10:53:19.166 [main] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+10:53:19.242 [main] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+10:53:19.747 [main] INFO  com.tcs.stepdefinition.Hooks - user click login button
+10:53:19.923 [main] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+10:53:28.822 [main] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+10:53:29.872 [main] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+10:53:33.936 [main] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+10:53:33.979 [main] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+10:53:33.979 [main] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+10:53:33.980 [main] INFO  com.tcs.stepdefinition.Hooks - 758104368
+10:53:40.429 [main] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+10:55:23.396 [main] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+10:55:27.708 [main] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+10:55:27.776 [main] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+10:55:27.776 [main] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+10:55:27.778 [main] INFO  com.tcs.stepdefinition.Hooks - 1134505351
+10:55:28.653 [main] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+10:55:32.915 [main] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+10:55:32.998 [main] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+10:55:33.501 [main] INFO  com.tcs.stepdefinition.Hooks - user click login button
+10:55:33.676 [main] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+10:55:42.702 [main] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+10:55:43.756 [main] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+10:55:47.676 [main] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+10:55:47.720 [main] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+10:55:47.720 [main] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+10:55:47.720 [main] INFO  com.tcs.stepdefinition.Hooks - 758104368
+10:55:48.412 [main] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+10:55:52.652 [main] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+10:55:52.723 [main] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+10:55:53.254 [main] INFO  com.tcs.stepdefinition.Hooks - user click login button
+10:55:53.423 [main] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+10:55:59.153 [main] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+10:58:34.395 [main] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+10:58:39.961 [main] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+10:58:40.011 [main] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+10:58:40.012 [main] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+10:58:40.013 [main] INFO  com.tcs.stepdefinition.Hooks - 1134505351
+10:58:40.856 [main] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+10:58:45.124 [main] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+10:58:45.209 [main] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+10:58:45.709 [main] INFO  com.tcs.stepdefinition.Hooks - user click login button
+10:58:45.893 [main] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+10:58:54.990 [main] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+10:58:56.005 [main] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+10:59:00.036 [main] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+10:59:00.113 [main] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+10:59:00.113 [main] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+10:59:00.113 [main] INFO  com.tcs.stepdefinition.Hooks - 2076029472
+10:59:00.786 [main] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+10:59:05.017 [main] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+10:59:05.088 [main] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+10:59:05.618 [main] INFO  com.tcs.stepdefinition.Hooks - user click login button
+10:59:05.804 [main] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+10:59:11.553 [main] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+11:00:58.678 [main] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+11:01:02.629 [main] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+11:01:02.700 [main] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+11:01:02.700 [main] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+11:01:02.701 [main] INFO  com.tcs.stepdefinition.Hooks - 1155337528
+11:01:03.498 [main] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+11:01:07.760 [main] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+11:01:07.840 [main] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+11:01:08.367 [main] INFO  com.tcs.stepdefinition.Hooks - user click login button
+11:01:08.544 [main] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+11:01:17.498 [main] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+11:01:18.565 [main] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+11:01:22.510 [main] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+11:01:22.533 [main] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+11:01:22.533 [main] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+11:01:22.533 [main] INFO  com.tcs.stepdefinition.Hooks - 2076029472
+11:01:23.133 [main] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+11:01:27.436 [main] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+11:01:27.516 [main] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+11:01:28.055 [main] INFO  com.tcs.stepdefinition.Hooks - user click login button
+11:01:28.247 [main] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+11:01:33.915 [main] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+11:02:36.041 [main] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+11:02:40.730 [main] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+11:02:40.775 [main] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+11:02:40.775 [main] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+11:02:40.776 [main] INFO  com.tcs.stepdefinition.Hooks - 1332009419
+11:02:41.680 [main] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+11:02:45.948 [main] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+11:02:46.030 [main] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+11:02:46.538 [main] INFO  com.tcs.stepdefinition.Hooks - user click login button
+11:02:46.720 [main] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+11:02:55.695 [main] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+11:02:57.321 [main] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+11:03:01.328 [main] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+11:03:01.373 [main] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+11:03:01.373 [main] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+11:03:01.373 [main] INFO  com.tcs.stepdefinition.Hooks - 1342061890
+11:03:01.893 [main] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+11:03:06.127 [main] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+11:03:06.200 [main] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+11:03:06.746 [main] INFO  com.tcs.stepdefinition.Hooks - user click login button
+11:03:07.006 [main] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+11:03:15.989 [main] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+11:03:17.014 [main] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+11:03:22.371 [main] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+11:03:22.427 [main] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+11:03:22.428 [main] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+11:03:22.428 [main] INFO  com.tcs.stepdefinition.Hooks - 931041456
+11:03:23.097 [main] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+11:03:27.318 [main] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+11:03:27.384 [main] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+11:03:27.900 [main] INFO  com.tcs.stepdefinition.Hooks - user click login button
+11:03:28.063 [main] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+11:03:33.765 [main] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+11:05:26.981 [TestNG-test=CucumberTests-1] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+11:05:38.906 [TestNG-test=CucumberTests-1] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+11:05:38.943 [TestNG-test=CucumberTests-1] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+11:05:38.943 [TestNG-test=CucumberTests-1] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+11:05:38.944 [TestNG-test=CucumberTests-1] INFO  com.tcs.stepdefinition.Hooks - 1725510400
+11:05:39.740 [TestNG-test=CucumberTests-1] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+11:05:43.997 [TestNG-test=CucumberTests-1] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+11:05:44.080 [TestNG-test=CucumberTests-1] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+11:05:44.604 [TestNG-test=CucumberTests-1] INFO  com.tcs.stepdefinition.Hooks - user click login button
+11:05:44.794 [TestNG-test=CucumberTests-1] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+11:05:53.823 [TestNG-test=CucumberTests-1] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+11:05:55.350 [TestNG-test=CucumberTests-1] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+11:05:59.453 [TestNG-test=CucumberTests-1] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+11:05:59.506 [TestNG-test=CucumberTests-1] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+11:05:59.507 [TestNG-test=CucumberTests-1] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+11:05:59.507 [TestNG-test=CucumberTests-1] INFO  com.tcs.stepdefinition.Hooks - 1874361540
+11:06:00.073 [TestNG-test=CucumberTests-1] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+11:06:04.314 [TestNG-test=CucumberTests-1] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+11:06:04.390 [TestNG-test=CucumberTests-1] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+11:06:04.892 [TestNG-test=CucumberTests-1] INFO  com.tcs.stepdefinition.Hooks - user click login button
+11:06:05.084 [TestNG-test=CucumberTests-1] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+11:06:14.009 [TestNG-test=CucumberTests-1] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+11:06:15.014 [TestNG-test=CucumberTests-1] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+11:06:19.028 [TestNG-test=CucumberTests-1] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+11:06:19.079 [TestNG-test=CucumberTests-1] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+11:06:19.079 [TestNG-test=CucumberTests-1] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+11:06:19.079 [TestNG-test=CucumberTests-1] INFO  com.tcs.stepdefinition.Hooks - 704370577
+11:06:19.782 [TestNG-test=CucumberTests-1] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+11:06:24.012 [TestNG-test=CucumberTests-1] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+11:06:24.077 [TestNG-test=CucumberTests-1] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+11:06:24.587 [TestNG-test=CucumberTests-1] INFO  com.tcs.stepdefinition.Hooks - user click login button
+11:06:24.756 [TestNG-test=CucumberTests-1] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+11:06:30.480 [TestNG-test=CucumberTests-1] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+11:06:58.524 [TestNG-test=CucumberTests-2] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+11:06:58.524 [TestNG-test=CucumberTests-1] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+11:07:05.394 [TestNG-test=CucumberTests-1] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+11:07:06.785 [TestNG-test=CucumberTests-2] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+11:07:06.848 [TestNG-test=CucumberTests-1] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+11:07:06.849 [TestNG-test=CucumberTests-1] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+11:07:06.849 [TestNG-test=CucumberTests-1] INFO  com.tcs.stepdefinition.Hooks - 2028035593
+11:07:06.858 [TestNG-test=CucumberTests-2] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+11:07:06.859 [TestNG-test=CucumberTests-2] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+11:07:06.859 [TestNG-test=CucumberTests-2] INFO  com.tcs.stepdefinition.Hooks - 553731830
+11:07:07.917 [TestNG-test=CucumberTests-1] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+11:07:12.195 [TestNG-test=CucumberTests-1] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+11:07:12.270 [TestNG-test=CucumberTests-1] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+11:07:12.816 [TestNG-test=CucumberTests-1] INFO  com.tcs.stepdefinition.Hooks - user click login button
+11:07:13.016 [TestNG-test=CucumberTests-1] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+11:07:14.474 [TestNG-test=CucumberTests-2] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+11:07:15.427 [TestNG-test=CucumberTests-2] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+11:07:20.015 [TestNG-test=CucumberTests-2] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+11:07:20.528 [TestNG-test=CucumberTests-2] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+11:07:20.529 [TestNG-test=CucumberTests-2] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+11:07:20.529 [TestNG-test=CucumberTests-2] INFO  com.tcs.stepdefinition.Hooks - 1698871084
+11:07:21.147 [TestNG-test=CucumberTests-2] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+11:07:25.384 [TestNG-test=CucumberTests-2] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+11:07:25.464 [TestNG-test=CucumberTests-2] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+11:07:25.987 [TestNG-test=CucumberTests-1] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+16:39:21.651 [main] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+16:39:29.298 [main] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+16:39:29.368 [main] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+16:39:29.369 [main] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+16:39:29.371 [main] INFO  com.tcs.stepdefinition.Hooks - 1155337528
+16:39:30.186 [main] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+16:39:34.429 [main] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+16:39:34.496 [main] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+16:39:34.936 [main] INFO  com.tcs.stepdefinition.Hooks - user click login button
+16:39:35.088 [main] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+16:39:44.465 [main] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+16:39:45.381 [main] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+16:39:48.295 [main] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+16:39:48.343 [main] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+16:39:48.343 [main] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+16:39:48.343 [main] INFO  com.tcs.stepdefinition.Hooks - 2076029472
+16:39:55.119 [main] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+16:40:28.423 [main] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+16:40:36.267 [main] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+16:40:36.332 [main] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+16:40:36.332 [main] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+16:40:36.333 [main] INFO  com.tcs.stepdefinition.Hooks - 1134505351
+16:40:37.022 [main] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+16:40:41.256 [main] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+16:40:41.336 [main] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+16:40:41.777 [main] INFO  com.tcs.stepdefinition.Hooks - user click login button
+16:40:41.924 [main] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+16:40:50.755 [main] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+16:40:51.627 [main] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+16:40:55.312 [main] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+16:40:55.372 [main] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+16:40:55.372 [main] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+16:40:55.373 [main] INFO  com.tcs.stepdefinition.Hooks - 920914400
+16:40:55.992 [main] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+16:41:00.231 [main] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+16:41:00.289 [main] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+16:41:00.770 [main] INFO  com.tcs.stepdefinition.Hooks - user click login button
+16:41:00.933 [main] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+16:41:06.621 [main] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+17:09:54.755 [main] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+17:10:01.829 [main] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+17:10:01.877 [main] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+17:10:01.877 [main] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+17:10:01.878 [main] INFO  com.tcs.stepdefinition.Hooks - 1286497960
+17:10:02.742 [main] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+17:10:06.976 [main] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+17:10:07.052 [main] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+17:10:07.466 [main] INFO  com.tcs.stepdefinition.Hooks - user click login button
+17:10:07.613 [main] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+17:10:16.394 [main] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+17:10:17.256 [main] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+17:10:20.082 [main] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+17:10:20.100 [main] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+17:10:20.100 [main] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+17:10:20.100 [main] INFO  com.tcs.stepdefinition.Hooks - 1592228783
+17:10:26.895 [main] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+17:10:57.882 [main] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+17:11:02.963 [main] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+17:11:03.036 [main] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+17:11:03.037 [main] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+17:11:03.038 [main] INFO  com.tcs.stepdefinition.Hooks - 1286497960
+17:11:03.760 [main] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+17:11:07.992 [main] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+17:11:08.061 [main] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+17:11:08.488 [main] INFO  com.tcs.stepdefinition.Hooks - user click login button
+17:11:08.635 [main] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+17:11:17.875 [main] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+17:11:18.702 [main] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+17:11:22.259 [main] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+17:11:22.306 [main] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+17:11:22.306 [main] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+17:11:22.306 [main] INFO  com.tcs.stepdefinition.Hooks - 1592228783
+17:11:22.832 [main] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+17:11:27.036 [main] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+17:11:27.096 [main] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+17:11:27.530 [main] INFO  com.tcs.stepdefinition.Hooks - user click login button
+17:11:27.685 [main] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+17:11:33.296 [main] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+17:12:23.756 [main] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+17:12:29.843 [main] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+17:12:29.919 [main] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+17:12:29.924 [main] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+17:12:29.926 [main] INFO  com.tcs.stepdefinition.Hooks - 1286497960
+17:12:31.622 [main] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+17:12:35.846 [main] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+17:12:35.909 [main] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+17:12:36.328 [main] INFO  com.tcs.stepdefinition.Hooks - user click login button
+17:12:36.485 [main] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+17:12:45.404 [main] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+17:12:46.320 [main] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+17:12:49.409 [main] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+17:12:49.482 [main] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+17:12:49.483 [main] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+17:12:49.483 [main] INFO  com.tcs.stepdefinition.Hooks - 1592228783
+17:12:56.209 [main] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+17:14:38.889 [main] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+17:14:43.275 [main] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+17:14:43.303 [main] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+17:14:43.304 [main] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+17:14:43.305 [main] INFO  com.tcs.stepdefinition.Hooks - 1286497960
+17:14:44.023 [main] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+17:14:48.261 [main] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+17:14:48.325 [main] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+17:14:48.745 [main] INFO  com.tcs.stepdefinition.Hooks - user click login button
+17:14:48.892 [main] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+17:14:57.714 [main] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+17:14:58.567 [main] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+17:15:03.928 [main] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+17:15:03.960 [main] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+17:15:03.960 [main] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+17:15:03.960 [main] INFO  com.tcs.stepdefinition.Hooks - 219286908
+17:15:04.542 [main] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+17:15:08.745 [main] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+17:15:08.803 [main] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+17:15:09.228 [main] INFO  com.tcs.stepdefinition.Hooks - user click login button
+17:15:09.375 [main] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+17:15:14.961 [main] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+17:44:07.885 [main] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+17:44:15.503 [main] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+17:44:15.571 [main] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+17:44:15.571 [main] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+17:44:15.573 [main] INFO  com.tcs.stepdefinition.Hooks - 1559258941
+17:44:16.301 [main] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+17:44:20.528 [main] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+17:44:20.597 [main] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+17:44:21.024 [main] INFO  com.tcs.stepdefinition.Hooks - user click login button
+17:44:21.166 [main] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+17:44:29.946 [main] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+17:44:30.822 [main] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+17:44:34.532 [main] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+17:44:34.557 [main] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+17:44:34.557 [main] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+17:44:34.558 [main] INFO  com.tcs.stepdefinition.Hooks - 857240709
+17:44:41.474 [main] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+17:45:02.569 [main] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+17:45:05.714 [main] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+17:45:05.756 [main] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+17:45:05.756 [main] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+17:45:05.757 [main] INFO  com.tcs.stepdefinition.Hooks - 1286497960
+17:45:13.081 [main] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+17:45:14.286 [main] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+17:45:16.767 [main] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+17:50:27.916 [main] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+17:50:31.794 [main] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+17:50:31.836 [main] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+17:50:31.836 [main] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+17:50:31.837 [main] INFO  com.tcs.stepdefinition.Hooks - 1155337528
+17:50:32.670 [main] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+17:50:36.891 [main] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+17:50:36.962 [main] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+17:50:37.377 [main] INFO  com.tcs.stepdefinition.Hooks - user click login button
+17:50:37.534 [main] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+17:50:46.299 [main] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+17:50:47.179 [main] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+17:50:49.868 [main] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+17:50:49.896 [main] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+17:50:49.896 [main] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+17:50:49.897 [main] INFO  com.tcs.stepdefinition.Hooks - 2018794816
+17:50:50.069 [main] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+17:50:54.268 [main] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+17:50:54.337 [main] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+17:50:54.805 [main] INFO  com.tcs.stepdefinition.Hooks - user click login button
+17:50:54.956 [main] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+17:51:00.731 [main] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+17:56:19.085 [main] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+17:56:25.287 [main] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+17:56:25.328 [main] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+17:56:25.328 [main] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+17:56:25.329 [main] INFO  com.tcs.stepdefinition.Hooks - 1286497960
+17:56:25.831 [main] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+17:56:30.114 [main] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+17:56:30.198 [main] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+17:56:30.703 [main] INFO  com.tcs.stepdefinition.Hooks - user click login button
+17:56:30.891 [main] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+17:56:39.857 [main] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+17:56:40.918 [main] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+17:56:44.349 [main] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+17:56:44.383 [main] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+17:56:44.383 [main] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+17:56:44.383 [main] INFO  com.tcs.stepdefinition.Hooks - 654821264
+17:56:45.282 [main] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+17:56:49.513 [main] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+17:56:49.581 [main] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+17:56:50.105 [main] INFO  com.tcs.stepdefinition.Hooks - user click login button
+17:56:50.290 [main] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+17:56:56.056 [main] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+18:23:59.902 [TestNG-test=CucumberTests-1] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+18:23:59.902 [TestNG-test=CucumberTests-2] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+18:24:11.902 [TestNG-test=CucumberTests-1] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+18:24:11.904 [TestNG-test=CucumberTests-2] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+18:24:11.944 [TestNG-test=CucumberTests-2] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+18:24:11.944 [TestNG-test=CucumberTests-2] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+18:24:11.945 [TestNG-test=CucumberTests-2] INFO  com.tcs.stepdefinition.Hooks - 933871734
+18:24:11.947 [TestNG-test=CucumberTests-1] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+18:24:11.947 [TestNG-test=CucumberTests-1] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+18:24:11.949 [TestNG-test=CucumberTests-1] INFO  com.tcs.stepdefinition.Hooks - 1827853642
+18:24:12.401 [TestNG-test=CucumberTests-2] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+18:24:12.559 [TestNG-test=CucumberTests-1] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+18:24:16.717 [TestNG-test=CucumberTests-2] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+18:24:16.826 [TestNG-test=CucumberTests-2] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+18:24:16.885 [TestNG-test=CucumberTests-1] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+18:24:17.012 [TestNG-test=CucumberTests-1] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+18:24:17.627 [TestNG-test=CucumberTests-2] INFO  com.tcs.stepdefinition.Hooks - user click login button
+18:24:17.861 [TestNG-test=CucumberTests-1] INFO  com.tcs.stepdefinition.Hooks - user click login button
+18:24:17.927 [TestNG-test=CucumberTests-2] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+18:24:18.118 [TestNG-test=CucumberTests-1] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+18:24:27.787 [TestNG-test=CucumberTests-2] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+18:24:28.698 [TestNG-test=CucumberTests-1] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+18:24:28.934 [TestNG-test=CucumberTests-2] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+18:24:32.270 [TestNG-test=CucumberTests-2] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+18:24:32.318 [TestNG-test=CucumberTests-2] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+18:24:32.319 [TestNG-test=CucumberTests-2] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+18:24:32.319 [TestNG-test=CucumberTests-2] INFO  com.tcs.stepdefinition.Hooks - 2038029373
+18:24:33.554 [TestNG-test=CucumberTests-2] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+18:24:37.773 [TestNG-test=CucumberTests-2] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+18:24:37.857 [TestNG-test=CucumberTests-2] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+18:24:38.370 [TestNG-test=CucumberTests-2] INFO  com.tcs.stepdefinition.Hooks - user click login button
+18:24:38.552 [TestNG-test=CucumberTests-2] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+18:24:44.290 [TestNG-test=CucumberTests-2] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+18:25:41.889 [main] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+18:25:47.749 [main] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+18:25:47.813 [main] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+18:25:47.813 [main] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+18:25:47.815 [main] INFO  com.tcs.stepdefinition.Hooks - 1671200668
+18:25:48.543 [main] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+18:25:52.866 [main] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+18:25:52.956 [main] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+18:25:53.459 [main] INFO  com.tcs.stepdefinition.Hooks - user click login button
+18:25:53.643 [main] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+18:26:02.527 [main] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+18:26:04.133 [main] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+18:26:11.734 [main] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+18:26:11.762 [main] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+18:26:11.762 [main] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+18:26:11.762 [main] INFO  com.tcs.stepdefinition.Hooks - 1656194780
+18:26:12.050 [main] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+18:26:16.304 [main] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+18:26:16.385 [main] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+18:26:16.897 [main] INFO  com.tcs.stepdefinition.Hooks - user click login button
+18:26:17.089 [main] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+18:26:40.372 [main] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+18:26:41.434 [main] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+18:26:46.496 [main] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+18:26:46.522 [main] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+18:26:46.522 [main] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+18:26:46.522 [main] INFO  com.tcs.stepdefinition.Hooks - 796240305
+18:26:46.892 [main] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+18:26:51.130 [main] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+18:26:51.202 [main] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+18:26:51.721 [main] INFO  com.tcs.stepdefinition.Hooks - user click login button
+18:26:51.896 [main] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+18:26:57.598 [main] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+18:27:51.943 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+18:27:51.943 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+18:27:59.587 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+18:27:59.652 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+18:27:59.655 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+18:27:59.657 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - 1387914929
+18:28:00.013 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+18:28:00.074 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+18:28:00.075 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+18:28:00.075 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - 482542070
+18:28:00.157 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+18:28:00.466 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+18:28:04.431 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+18:28:04.521 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+18:28:04.782 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+18:28:04.939 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+18:28:05.173 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - user click login button
+18:28:05.430 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+18:28:05.604 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user click login button
+18:28:05.790 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+18:28:14.609 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+18:28:14.810 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+18:28:16.103 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+18:28:20.577 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+18:28:20.653 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+18:28:20.653 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+18:28:20.654 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - 1603713250
+18:28:21.247 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+18:28:25.480 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+18:28:25.555 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+18:28:26.077 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - user click login button
+18:28:26.250 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+18:28:31.889 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+18:29:57.524 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+18:29:57.524 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+18:30:05.595 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+18:30:05.638 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+18:30:05.638 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+18:30:05.639 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - 82233550
+18:30:05.992 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+18:30:06.283 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+18:30:06.325 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+18:30:06.326 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+18:30:06.326 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - 1829084240
+18:30:06.947 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+18:30:10.317 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+18:30:10.425 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+18:30:10.919 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - user click login button
+18:30:11.111 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+18:30:11.271 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+18:30:11.363 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+18:30:11.929 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user click login button
+18:30:12.177 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+18:30:21.141 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+18:30:21.192 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+18:30:22.462 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+18:30:26.340 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+18:30:26.383 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+18:30:26.383 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+18:30:26.384 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - 1066918493
+18:30:26.513 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+18:30:30.754 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+18:30:30.832 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+18:30:31.361 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - user click login button
+18:30:31.540 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+18:30:37.412 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+18:31:23.830 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+18:31:23.830 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+18:31:29.659 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+18:31:29.718 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+18:31:29.719 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+18:31:29.720 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - 714739600
+18:31:30.063 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+18:31:30.102 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+18:31:30.102 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+18:31:30.103 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - 710293706
+18:31:30.503 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+18:31:30.704 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+18:31:34.848 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+18:31:34.969 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+18:31:35.083 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+18:31:35.215 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+18:31:35.883 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - user click login button
+18:31:36.124 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user click login button
+18:31:36.196 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+18:31:36.440 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+18:31:45.458 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+18:31:45.816 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+18:31:46.897 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+18:31:50.771 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+18:31:50.822 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+18:31:50.823 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+18:31:50.823 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - 707733589
+18:31:51.809 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+18:31:56.080 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+18:31:56.168 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+18:31:56.702 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - user click login button
+18:31:56.869 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+18:32:02.702 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+18:33:24.672 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+18:33:24.672 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+18:33:31.290 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+18:33:31.318 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+18:33:31.319 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+18:33:31.319 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - 1981441340
+18:33:31.632 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+18:33:31.664 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+18:33:31.665 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+18:33:31.665 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - 1433256313
+18:33:32.026 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+18:33:32.540 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+18:33:36.317 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+18:33:36.411 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+18:33:36.913 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+18:33:37.016 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+18:33:37.071 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user click login button
+18:33:37.312 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+18:33:37.703 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - user click login button
+18:33:37.912 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+18:33:46.868 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+18:33:47.073 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+18:33:48.632 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+18:33:54.841 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+18:33:54.864 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+18:33:54.864 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+18:33:54.864 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - 406859957
+18:33:55.315 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+18:33:59.549 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+18:33:59.625 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+18:34:00.165 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - user click login button
+18:34:00.342 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+18:34:05.996 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+18:38:07.521 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+18:38:07.521 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+18:38:15.922 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+18:38:15.977 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+18:38:15.977 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+18:38:15.979 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - 1246123498
+18:38:16.130 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+18:38:16.214 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+18:38:16.215 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+18:38:16.215 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - 1436065302
+18:38:16.915 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+18:38:17.315 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+18:38:21.218 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+18:38:21.299 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+18:38:21.716 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+18:38:21.838 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+18:38:22.002 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user click login button
+18:38:22.277 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+18:38:22.549 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - user click login button
+18:38:22.727 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+18:38:32.327 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+18:38:33.137 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+18:38:34.149 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+18:38:39.376 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+18:38:39.439 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+18:38:39.439 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+18:38:39.439 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - 948254946
+18:38:40.036 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+18:38:44.245 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+18:38:44.320 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+18:38:44.856 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - user click login button
+18:38:45.038 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+18:38:50.740 [TestNG-test=Test-2] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+20:14:13.007 [main] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+20:14:17.841 [main] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+20:14:17.884 [main] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+20:14:17.884 [main] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+20:14:17.885 [main] INFO  com.tcs.stepdefinition.Hooks - 1666144466
+20:14:18.287 [main] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+20:14:22.539 [main] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+20:14:22.610 [main] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+20:14:23.038 [main] INFO  com.tcs.stepdefinition.Hooks - user click login button
+20:14:23.187 [main] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+20:14:32.208 [main] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+21:20:56.873 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+21:21:06.038 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+21:21:06.067 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+21:21:06.067 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+21:21:06.067 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - 920907
+21:21:07.144 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+21:21:11.393 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+21:21:11.463 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+21:21:11.919 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user click login button
+21:21:12.076 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+21:21:40.948 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+21:23:53.783 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+21:24:00.034 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+21:24:00.076 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+21:24:00.076 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+21:24:00.077 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - 1577287137
+21:24:00.400 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+21:24:04.634 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+21:24:04.720 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+21:24:05.145 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user click login button
+21:24:05.296 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+21:24:16.268 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+21:33:28.226 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+21:33:38.966 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+21:33:39.003 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+21:33:39.003 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+21:33:39.003 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - 1577287137
+21:33:39.401 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+21:33:43.654 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+21:33:43.726 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+21:33:44.085 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user click login button
+21:33:44.252 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+21:34:20.054 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+22:25:03.262 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+22:25:14.501 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+22:25:14.563 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+22:25:14.563 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+22:25:14.564 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - 1567891429
+22:25:14.952 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+22:25:19.203 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+22:25:19.272 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+22:25:19.719 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user click login button
+22:25:19.868 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+22:25:32.788 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+22:29:16.718 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+22:29:21.204 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+22:29:21.235 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+22:29:21.236 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+22:29:21.236 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - 663372538
+22:29:21.630 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+22:29:25.875 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+22:29:25.945 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+22:29:26.379 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user click login button
+22:29:26.538 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+22:29:45.849 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+22:35:17.514 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+22:35:23.709 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+22:35:23.743 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+22:35:23.743 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+22:35:23.744 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - 663372538
+22:35:24.050 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+22:35:28.287 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+22:35:28.354 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+22:35:28.803 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user click login button
+22:35:28.953 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+22:35:40.785 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+23:02:35.612 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+23:02:46.680 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+23:02:46.758 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+23:02:46.758 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+23:02:46.759 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - 663372538
+23:02:47.525 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+23:02:51.784 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+23:02:51.870 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+23:02:52.375 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user click login button
+23:02:52.523 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+23:03:03.246 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+23:03:04.217 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+23:03:12.208 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+23:03:12.239 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+23:03:12.240 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+23:03:12.240 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - 1744769544
+23:03:13.343 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+23:03:17.544 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+23:03:17.608 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+23:03:18.036 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user click login button
+23:03:18.184 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+23:03:26.922 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+23:04:15.716 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+23:04:23.785 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+23:04:23.814 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+23:04:23.814 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+23:04:23.815 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - 1628015993
+23:04:24.120 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+23:04:28.387 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+23:04:28.457 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+23:04:28.883 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user click login button
+23:04:29.035 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+23:04:40.009 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+23:04:40.899 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+23:04:45.993 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+23:04:46.029 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+23:04:46.029 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+23:04:46.029 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - 994984617
+23:04:46.795 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+23:04:51.018 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+23:04:51.084 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+23:04:51.508 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user click login button
+23:04:51.692 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+23:05:00.447 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+23:06:22.139 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+23:06:27.696 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+23:06:27.772 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+23:06:27.772 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+23:06:27.773 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - 1473853952
+23:06:28.151 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+23:06:32.404 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+23:06:32.476 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+23:06:32.908 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user click login button
+23:06:33.069 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+23:06:44.563 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+23:09:58.186 [main] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+23:10:02.866 [main] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+23:10:02.926 [main] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+23:10:02.927 [main] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+23:10:02.928 [main] INFO  com.tcs.stepdefinition.Hooks - 1344345219
+23:10:03.380 [main] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+23:10:07.886 [main] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+23:10:07.967 [main] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+23:10:08.461 [main] INFO  com.tcs.stepdefinition.Hooks - user click login button
+23:10:08.622 [main] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+23:10:20.439 [main] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+09:22:39.662 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+09:22:46.411 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+09:22:46.474 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+09:22:46.474 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+09:22:46.475 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - 1142677222
+09:22:47.214 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+09:22:51.504 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+09:22:51.590 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+09:22:52.109 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user click login button
+09:22:52.303 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+09:23:06.062 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+09:34:57.250 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+09:35:09.046 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+09:35:09.080 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+09:35:09.081 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+09:35:09.082 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - 1822367966
+09:35:10.154 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+09:35:14.477 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+09:35:14.566 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+09:35:15.154 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user click login button
+09:35:15.355 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+09:35:27.894 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+09:36:27.162 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+09:36:34.958 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+09:36:35.036 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+09:36:35.036 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+09:36:35.038 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - 1473853952
+09:36:35.825 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+09:36:40.126 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+09:36:40.208 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+09:36:40.725 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user click login button
+09:36:40.902 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+09:36:53.052 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+09:37:29.727 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+09:37:36.050 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+09:37:36.097 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+09:37:36.098 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+09:37:36.098 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - 1473853952
+09:37:36.725 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+09:37:41.052 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+09:37:41.147 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+09:37:41.685 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user click login button
+09:37:41.866 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+09:37:53.310 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+09:38:27.233 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+09:38:33.255 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+09:38:33.301 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+09:38:33.301 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+09:38:33.302 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - 1473853952
+09:38:33.945 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+09:38:38.215 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+09:38:38.303 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+09:38:38.846 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user click login button
+09:38:39.034 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+09:38:50.166 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+09:39:57.849 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+09:40:08.349 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+09:40:08.391 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+09:40:08.391 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+09:40:08.394 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - 1822367966
+09:40:09.015 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+09:40:13.312 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+09:40:13.396 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+09:40:13.908 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user click login button
+09:40:14.109 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+09:40:26.153 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+14:12:13.026 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+14:12:23.734 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+14:12:23.816 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+14:12:23.818 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+14:12:23.821 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - 1294442395
+14:12:26.263 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+14:12:30.923 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+14:12:31.163 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+14:12:32.256 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user click login button
+14:12:32.635 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+14:12:48.491 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+14:13:08.796 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+14:13:15.544 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+14:13:15.661 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+14:13:15.663 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+14:13:15.667 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - 481933844
+14:13:17.069 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+14:13:21.720 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+14:13:21.943 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+14:13:23.080 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user click login button
+14:13:23.464 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+14:13:38.763 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+16:07:29.506 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+16:07:36.924 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+16:07:36.973 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+16:07:36.973 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+16:07:36.974 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - 1466495953
+16:07:37.573 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+16:07:41.814 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+16:07:41.893 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+16:07:42.376 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user click login button
+16:07:42.546 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+16:07:54.224 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+16:47:45.813 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+16:47:57.517 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+16:47:57.601 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+16:47:57.601 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+16:47:57.604 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - 2110976020
+16:47:57.940 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+16:48:02.201 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+16:48:02.280 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+16:48:02.738 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user click login button
+16:48:02.906 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+16:48:15.496 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+16:49:32.800 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+16:49:39.774 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+16:49:39.823 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+16:49:39.824 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+16:49:39.825 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - 1758406278
+16:49:40.171 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+16:49:44.420 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+16:49:44.492 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+16:49:44.933 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user click login button
+16:49:45.093 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+16:49:57.439 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+16:49:58.289 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+16:50:02.657 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+16:50:02.716 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+16:50:02.717 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+16:50:02.717 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - 678921223
+16:50:03.440 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+16:50:07.679 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+16:50:07.741 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+16:50:08.150 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user click login button
+16:50:08.307 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+16:50:16.963 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+16:50:17.808 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+16:50:22.023 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+16:50:22.050 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+16:50:22.050 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+16:50:22.050 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - 915794706
+16:50:22.940 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+16:50:27.163 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+16:50:27.232 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+16:50:27.709 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user click login button
+16:50:27.868 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+16:50:33.584 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+16:50:34.488 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+16:50:38.439 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+16:50:38.487 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+16:50:38.487 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+16:50:38.487 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - 1552007836
+16:50:38.691 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+16:50:42.903 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+16:50:42.968 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+16:50:43.423 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user click login button
+16:50:43.576 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+16:50:49.234 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+16:50:50.049 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+16:50:55.926 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+16:50:55.955 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+16:50:55.956 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+16:50:55.956 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - 1905689753
+16:50:56.118 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+16:51:00.329 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+16:51:00.389 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+16:51:00.816 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user click login button
+16:51:00.964 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+16:51:06.589 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+16:51:07.424 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+16:51:10.684 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+16:51:10.711 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+16:51:10.711 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+16:51:10.711 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - 1253527553
+16:51:11.152 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+16:51:15.372 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+16:51:15.433 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+16:51:15.860 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user click login button
+16:51:16.013 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+16:51:21.670 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+16:51:22.490 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+16:51:26.038 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+16:51:26.088 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+16:51:26.088 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+16:51:26.088 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - 723545683
+16:51:26.905 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+16:51:31.085 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+16:51:31.154 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+16:51:31.560 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user click login button
+16:51:31.707 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+16:51:42.767 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+16:52:20.235 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+16:52:26.314 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+16:52:26.356 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+16:52:26.356 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+16:52:26.357 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - 562786370
+16:52:26.711 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+16:53:06.423 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+16:53:11.737 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+16:53:11.780 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+16:53:11.780 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+16:53:11.781 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - 131189814
+16:53:12.692 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+16:53:17.023 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+16:53:17.118 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+16:53:17.575 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user click login button
+16:53:17.722 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+16:53:26.945 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+16:53:27.862 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+16:53:31.767 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+16:53:31.823 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+16:53:31.824 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+16:53:31.824 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - 667235108
+16:53:32.047 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+16:54:00.790 [TestNG-test=Test1-1] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+16:54:00.790 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+16:54:10.989 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+16:54:11.011 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+16:54:11.012 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+16:54:11.013 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - 96137476
+16:54:11.124 [TestNG-test=Test1-1] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+16:54:11.159 [TestNG-test=Test1-1] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+16:54:11.159 [TestNG-test=Test1-1] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+16:54:11.159 [TestNG-test=Test1-1] INFO  com.tcs.stepdefinition.Hooks - 981906323
+16:54:11.502 [TestNG-test=Test1-1] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+16:54:11.595 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+16:54:15.799 [TestNG-test=Test1-1] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+16:54:15.856 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+16:54:15.883 [TestNG-test=Test1-1] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+16:54:15.942 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+16:54:16.519 [TestNG-test=Test1-1] INFO  com.tcs.stepdefinition.Hooks - user click login button
+16:54:16.637 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user click login button
+16:54:16.775 [TestNG-test=Test1-1] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+16:54:16.854 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+16:54:29.763 [TestNG-test=Test1-1] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+16:54:29.869 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+16:54:31.050 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+16:54:31.184 [TestNG-test=Test1-1] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+16:54:34.180 [TestNG-test=Test1-1] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+16:54:34.314 [TestNG-test=Test1-1] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+16:54:34.314 [TestNG-test=Test1-1] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+16:54:34.314 [TestNG-test=Test1-1] INFO  com.tcs.stepdefinition.Hooks - 693013877
+16:54:35.069 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+16:54:35.272 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+16:54:35.273 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+16:54:35.273 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - 212876356
+16:54:35.976 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+16:54:37.043 [TestNG-test=Test1-1] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+16:54:40.179 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+16:54:40.242 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+16:54:40.622 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user click login button
+16:54:40.749 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+16:54:49.603 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+16:54:50.680 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+16:54:56.269 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+16:54:56.299 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+16:54:56.299 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+16:54:56.299 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - 1137673716
+16:54:56.644 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+16:55:00.848 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+16:55:00.912 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+16:55:01.494 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user click login button
+16:55:01.683 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+16:55:07.321 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+16:55:08.335 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+16:55:13.475 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+16:55:13.491 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+16:55:13.491 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+16:55:13.492 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - 2007699753
+16:55:14.142 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+16:55:18.358 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+16:55:18.427 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+16:55:19.120 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user click login button
+16:55:19.306 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+16:55:25.074 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+16:55:26.359 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+16:55:30.794 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+16:55:30.833 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+16:55:30.833 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+16:55:30.834 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - 845255025
+16:55:31.112 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+16:55:35.388 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+16:55:35.467 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+16:55:36.326 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user click login button
+16:55:36.559 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+16:55:42.234 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+16:55:43.656 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+16:55:49.985 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+16:55:50.013 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+16:55:50.014 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+16:55:50.014 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - 1136353594
+16:55:50.632 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+16:55:54.866 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+16:55:54.929 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+16:55:55.634 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user click login button
+16:55:55.809 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+16:56:01.528 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+16:56:03.262 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+16:56:10.314 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+16:56:10.337 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+16:56:10.338 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+16:56:10.338 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - 679166696
+16:56:10.792 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+16:56:15.160 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+16:56:15.232 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+16:56:16.131 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user click login button
+16:56:16.324 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+16:56:27.890 [TestNG-test=Test-1] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+21:44:46.508 [main] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+21:44:55.811 [main] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+21:44:55.855 [main] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+21:44:55.855 [main] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+21:44:55.856 [main] INFO  com.tcs.stepdefinition.Hooks - 383882703
+21:44:57.675 [main] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+21:45:02.099 [main] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+21:45:02.247 [main] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+21:45:03.186 [main] INFO  com.tcs.stepdefinition.Hooks - user click login button
+21:45:03.426 [main] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+21:45:13.919 [main] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+21:45:15.958 [main] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+21:45:20.365 [main] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+21:45:20.385 [main] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+21:45:20.385 [main] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+21:45:20.386 [main] INFO  com.tcs.stepdefinition.Hooks - 1333502127
+21:45:20.518 [main] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+21:45:24.843 [main] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+21:45:24.956 [main] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+21:45:25.473 [main] INFO  com.tcs.stepdefinition.Hooks - user click login button
+21:45:25.625 [main] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+21:45:35.408 [main] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+21:45:36.531 [main] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+21:45:41.693 [main] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+21:45:41.709 [main] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+21:45:41.709 [main] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+21:45:41.709 [main] INFO  com.tcs.stepdefinition.Hooks - 753661999
+21:45:43.294 [main] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+21:45:47.697 [main] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+21:45:47.810 [main] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+21:45:48.512 [main] INFO  com.tcs.stepdefinition.Hooks - user click login button
+21:45:48.733 [main] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+21:45:57.610 [main] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+21:45:58.520 [main] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+21:46:06.561 [main] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+21:46:06.612 [main] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+21:46:06.612 [main] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+21:46:06.612 [main] INFO  com.tcs.stepdefinition.Hooks - 357886628
+21:46:07.529 [main] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+21:46:11.789 [main] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+21:46:11.861 [main] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+21:46:12.402 [main] INFO  com.tcs.stepdefinition.Hooks - user click login button
+21:46:12.590 [main] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+21:46:19.090 [main] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+21:46:20.298 [main] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+21:46:24.881 [main] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+21:46:24.915 [main] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+21:46:24.915 [main] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+21:46:24.915 [main] INFO  com.tcs.stepdefinition.Hooks - 2036555904
+21:46:25.109 [main] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+21:46:29.409 [main] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+21:46:29.493 [main] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+21:46:30.164 [main] INFO  com.tcs.stepdefinition.Hooks - user click login button
+21:46:30.420 [main] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+21:46:36.176 [main] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+21:46:37.293 [main] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+21:46:41.610 [main] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+21:46:41.627 [main] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+21:46:41.627 [main] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+21:46:41.628 [main] INFO  com.tcs.stepdefinition.Hooks - 492288241
+21:46:41.752 [main] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+21:46:46.091 [main] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+21:46:46.190 [main] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+21:46:46.823 [main] INFO  com.tcs.stepdefinition.Hooks - user click login button
+21:46:46.994 [main] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+21:46:52.782 [main] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+21:46:53.830 [main] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+21:46:58.992 [main] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+21:46:59.014 [main] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+21:46:59.014 [main] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+21:46:59.015 [main] INFO  com.tcs.stepdefinition.Hooks - 1526441996
+21:46:59.148 [main] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+21:47:03.502 [main] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+21:47:03.604 [main] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+21:47:04.159 [main] INFO  com.tcs.stepdefinition.Hooks - user click login button
+21:47:04.351 [main] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+21:47:10.058 [main] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
+21:47:11.125 [main] INFO  com.tcs.stepdefinition.Hooks - Before Hook: Browser Launching..........
+21:47:17.853 [main] INFO  com.tcs.stepdefinition.Hooks - User is on the home page
+21:47:17.873 [main] INFO  com.tcs.stepdefinition.Hooks - Ballantynes Department Store | Home of designer fashion, luxury beauty & homewares - Ballantynes Department Store
+21:47:17.873 [main] INFO  com.tcs.stepdefinition.Hooks - user clcik login link
+21:47:17.873 [main] INFO  com.tcs.stepdefinition.Hooks - 1356405263
+21:47:18.917 [main] INFO  com.tcs.stepdefinition.Hooks - user should be navigated to login page
+21:47:23.290 [main] INFO  com.tcs.stepdefinition.Hooks - a user is on the login page
+21:47:23.426 [main] INFO  com.tcs.stepdefinition.Hooks - user enter valid information \\(email, password) {string} {string}"
+21:47:24.194 [main] INFO  com.tcs.stepdefinition.Hooks - user click login button
+21:47:24.402 [main] INFO  com.tcs.stepdefinition.Hooks - user should verify login successfully
+21:47:33.739 [main] INFO  com.tcs.stepdefinition.Hooks - After Hook: Browser Quit..........
